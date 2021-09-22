@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Hello folks! My name is Raphael and I'm a software engineering 💻 student 🎓 from Rocketseat 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are play guitar 🎸, games 🕹️, books 📚 and play with my dogs 🐶. Welcome 🤓!
+  Hello folks! My name is Raphael and I'm a software engineering 💻 student 🎓 from Rocketseat 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are playing the guitar 🎸, games 🕹️ and with my dogs 🐶, as well as reading some books 📚. Welcome and always look for the next level 🤓!
 </p>
 
 <h2 align="center">
