@@ -16,7 +16,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./Images/stack.gif" width="50"/> <strong>Stack & Techs</strong> <img src="./Images/stack.gif" width="50"/>
+  <img src="./Images/stack.gif" width="50"/> Stack & Techs <img src="./Images/stack.gif" width="50"/>
 </h2>
 
 <p align="center">
