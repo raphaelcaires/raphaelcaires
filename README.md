@@ -16,7 +16,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./Images/stack.gif" width="50"/> Stack & Techs
+  Stack & Techs <img src="./Images/stack.gif" width="50"/> 
 </h2>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./Images/social.gif" width="60"/> Social Midias
+  Social Midias <img src="./Images/social.gif" width="60"/> 
 </h2>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./Images/stats.gif" width="50"/> My GitHub Stats
+  My GitHub Stats <img src="./Images/stats.gif" width="50"/>
 </h2>
 
 <p align="center">
