@@ -36,7 +36,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./Images/social.gif" width="60"/> Social Midias <img src="./Images/social.gif" width="60"/> 
+  <img src="./Images/social.gif" width="60"/> Social Media <img src="./Images/social.gif" width="60"/> 
 </h2>
 
 <p align="center">
