@@ -68,5 +68,5 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=raphaelcaires&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=raphaelcaires&theme=redical"/>
 </p>
