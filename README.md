@@ -9,7 +9,6 @@
  <img src="https://badges.pufler.dev/years/raphaelcaires"/>
  <img src="https://badges.pufler.dev/repos/raphaelcaires"/>
  <img src="https://badges.pufler.dev/commits/monthly/raphaelcaires"/>
-  
 </p>
 
 <p align="center">
