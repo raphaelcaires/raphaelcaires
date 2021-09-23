@@ -6,9 +6,9 @@
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/raphaelcaires/raphaelcaires"/> 
- <img src="https://badges.pufler.dev/years/raphaelcaires"/>
- <img src="https://badges.pufler.dev/repos/raphaelcaires"/>
- <img src="https://badges.pufler.dev/commits/monthly/raphaelcaires"/>
+ <img src="https://badges.pufler.dev/years/raphaelcaires/raphaelcaires"/>
+ <img src="https://badges.pufler.dev/repos/raphaelcaires/raphaelcaires"/>
+ <img src="https://badges.pufler.dev/commits/monthly/raphaelcaires/raphaelcaires"/>
 </p>
 
 <p align="center">
