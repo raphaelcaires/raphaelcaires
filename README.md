@@ -5,7 +5,7 @@
 <h1>Hello folks! 👋</h1>
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/raphaelcaires/"/> 
+ <img src="https://badges.pufler.dev/visits/raphaelcaires"/> 
  <img src="https://badges.pufler.dev/years/raphaelcaires"/>
  <img src="https://badges.pufler.dev/repos/raphaelcaires"/>
  <img src="https://badges.pufler.dev/commits/monthly/raphaelcaires"/>
