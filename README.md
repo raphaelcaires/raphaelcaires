@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  My name is Raphael and I'm software engineer at @dynatonhub and <strong>computer science</strong> 💻 student 🎓 from <a href="https://42.rio/" target="_blank">42 | Rio</a> 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real-life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are playing the guitar 🎸, games 🕹️ and with my dogs 🐶, as well as reading some books 📚. Welcome and always look for the next level 🤓!
+  My name is Raphael and I'm software engineer at <a href="https://dynaton.com.br/" target="_blank">Dynaton</a> and <strong>computer science</strong> 💻 student 🎓 at <a href="https://42.rio/" target="_blank">42 | Rio</a> 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real-life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are playing the guitar 🎸, games 🕹️ and with my dogs 🐶, as well as reading some books 📚. Welcome and always look for the next level 🤓!
 </p>
 
 <h2 align="center">
