@@ -4,12 +4,12 @@
 
 <h1>Hello folks! 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://badges.pufler.dev/visits/raphaelcaires/raphaelcaires"/> 
  <img src="https://badges.pufler.dev/years/raphaelcaires"/>
  <img src="https://badges.pufler.dev/repos/raphaelcaires"/>
  <img src="https://badges.pufler.dev/commits/monthly/raphaelcaires"/>
-</p>
+</p> -->
 
 <p align="center">
   My name is Raphael and I'm software engineer at <a href="https://dynaton.com.br/" target="_blank">Dynaton</a> and <strong>computer science</strong> 💻 student 🎓 at <a href="https://42.rio/" target="_blank">42 | Rio</a> 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real-life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are playing the guitar 🎸, games 🕹️ and with my dogs 🐶, as well as reading some books 📚. Welcome and always look for the next level 🤓!
