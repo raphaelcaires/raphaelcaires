@@ -59,12 +59,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaires&show_icons=true&theme=radical&line_height=27"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl&theme=radical"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelcaires&show_icons=true&theme=radical&line_height=27"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl&theme=radical"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </p>
 
 <p align = "center">
