@@ -25,12 +25,11 @@
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"/>
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-Visual Studio-black?style=flat-square&logo=visualstudio&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
