@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js"/>
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
@@ -33,7 +34,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-Webstorm-black?style=flat-square&logo=webstorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=vscode&logoColor=white"/>
 </p>
 
 <h2 align="center">
