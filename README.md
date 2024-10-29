@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=vscode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-black.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+ZmlsZV90eXBlX3ZzY29kZTI8L3RpdGxlPjxwYXRoIGQ9Ik0xMS43MiwxOC42ODUsNC44MzcsMjMuODY5LDIsMjIuOTIyLDksMTYsMiw5LjA3Nyw0LjgzNyw4LjEzbDYuODgzLDUuMTg0LDExLjQzMy0xMS4zTDMwLDQuOTIyVjI3LjA3N2wtNi44NDcsMi45MDlaTTE1LjI4NywxNmw3Ljg2NSw1LjkyM1YxMC4wNzZaIiBzdHlsZT0iZmlsbDojMDA3YWNjIi8+PC9zdmc+"/>
 </p>
 
 <h2 align="center">
