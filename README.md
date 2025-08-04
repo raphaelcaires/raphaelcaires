@@ -1,8 +1,10 @@
-</p align="center">
+<p align="center">
   <img src="./Images/header_background.png" width="1300"/>
-</P>
+</p>
 
-<h1>Hello folks! 👋</h1>
+<h1 align="center">
+  Hello folks! 👋
+</h1>
 
 <!-- <p align="center">
  <img src="https://badges.pufler.dev/visits/raphaelcaires/raphaelcaires"/> 
@@ -12,7 +14,7 @@
 </p> -->
 
 <p align="center">
-  👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the 🎸,          playing some 🕹️, hanging out with my 🐶 or diving into a good 📘.
+  Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the 🎸, playing some 🕹️, hanging out with my 🐶 or diving into a good 📘.
 </p>
 <p align="center">
   Thanks for stopping by and remember:  
