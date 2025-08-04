@@ -12,7 +12,11 @@
 </p> -->
 
 <p align="center">
-  My name is Raphael and I'm software engineer 🚀. I love ❤️ to explore new technologies and use them to solving 🔧 real-life problems ⚙️. I'm always ready to learn and work across new techs 💡. Some of my hobbies are playing the guitar 🎸, games 🕹️ and with my dogs 🐶, as well as reading some books 📚. Welcome and always look for the next level 🤓!
+  👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the guitar 🎸,          playing some games 🕹️, hanging out with my dogs 🐶 or diving into a good book 📚.
+</p>
+<p align="center">
+  Thanks for stopping by and remember:  
+  <strong>Always aim for the next level!</strong> 🤓✨
 </p>
 
 <h2 align="center">
@@ -62,12 +66,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelcaires&show_icons=true&theme=radical&line_height=27"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaires&show_icons=true&theme=radical&line_height=27&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl,ejs,shell,dockerfile&theme=radical&hide_border=true" height="207 rem"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align = "center">
