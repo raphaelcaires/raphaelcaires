@@ -12,7 +12,7 @@
 </p> -->
 
 <p align="center">
-  👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the guitar 🎸,          playing some games 🕹️, hanging out with my dogs 🐶 or diving into a good book 📚.
+👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the guitar 🎸,          playing some games 🕹️, hanging out with my dogs 🐶 or diving into a good book 📚.
 </p>
 <p align="center">
   Thanks for stopping by and remember:  
