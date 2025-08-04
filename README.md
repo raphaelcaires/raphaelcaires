@@ -12,7 +12,7 @@
 </p> -->
 
 <p align="center">
-👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the guitar 🎸,          playing some games 🕹️, hanging out with my dogs 🐶 or diving into a good book 📚.
+  👋 Hi there! I'm <strong>Raphael Caires</strong>, a passionate <strong>Software Engineer</strong> 🚀 I love exploring new technologies 💡 and using them to build solutions that solve 🔧 real-world problems ⚙️. I'm always eager to learn, collaborate, and work with different stacks and tools. In my free time, you’ll find me jamming on the 🎸,          playing some 🕹️, hanging out with my 🐶 or diving into a good 📘.
 </p>
 <p align="center">
   Thanks for stopping by and remember:  
@@ -24,6 +24,7 @@
 </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
@@ -31,7 +32,6 @@
   <img src="https://img.shields.io/badge/-NuxtJS-black?style=flat-square&logo=nuxtdotjs"/>
   <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
   <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
   <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel"/>
