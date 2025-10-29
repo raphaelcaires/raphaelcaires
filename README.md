@@ -29,9 +29,11 @@
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/ReactJS-black?style=flat-square?&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black??style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/-NuxtJS-black?style=flat-square&logo=nuxtdotjs"/>
+  <img src="https://img.shields.io/badge/-NuxtJS-black?style=flat-square&logo=nuxt"/>
   <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js"/>
   <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=yellow"/>
@@ -49,17 +51,17 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-raphaelcaires/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
   <a href="mailto: raphaelcaires@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-    </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dev-raphaelcaires/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"/>
+  </a>
   <a href="https://www.instagram.com/raphaelcaires/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"/>
   </a>
   <a href="https://twitter.com/raphaelcaires" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" target="_blank"/>
   </a>
 </p>
 
@@ -72,10 +74,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl,ejs,shell,dockerfile&theme=radical&hide_border=true" height="207 rem"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"/>
+</p> -->
+
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raphaelcaires&theme=radical&hide_border=false" /></a>
 </p>
 
 <p align = "center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelcaires&theme=radical&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelcaires&theme=radical&hide_border=true"/>
 </p>
