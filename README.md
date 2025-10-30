@@ -71,11 +71,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raphaelcaires&show_icons=true&theme=radical&line_height=27&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl,ejs,shell,dockerfile&theme=radical&hide_border=true" height="207 rem"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl,ejs,shell,dockerfile,sass&theme=radical" height="207 rem"/> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelcaires&exclude=html,css,nunjucks,shaderlab,kotlin,hlsl,EJS,shell,dockerfile,sass&theme=radical" height="207 rem"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </p>
 
 <p align = "center">
