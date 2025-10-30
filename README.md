@@ -74,12 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaires&hide=html,css,nunjucks,shaderlab,kotlin,hlsl,ejs,shell,dockerfile&theme=radical&hide_border=true" height="207 rem"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"/>
-</p> -->
-
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=raphaelcaires&theme=radical&hide_border=false" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false"/>
 </p>
 
 <p align = "center">
