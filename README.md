@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raphaelcaires&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=raphaelcaires&theme=radical&hide_border=true&short_numbers=true"/>
 </p>
 
 <p align = "center">
